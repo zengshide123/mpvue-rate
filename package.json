@@ -1,0 +1,24 @@
+{
+  "name": "mpvue-rate",
+  "version": "0.0.1",
+  "description": "a mpvue component",
+  "main": "Rate.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/zengshide123/mpvue-rate"
+  },
+  "keywords": [
+    "mpvue",
+    "rate",
+    "component"
+  ],
+  "bugs": {
+      "url": "https://github.com/zengshide123/mpvue-rate/issues"
+  },
+  "homepage": "https://github.com/zengshide123/mpvue-rate",
+  "author": "tiantian",
+  "license": "MIT"
+}
