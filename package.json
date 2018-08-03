@@ -1,6 +1,6 @@
 {
   "name": "mpvue-rate",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a mpvue component",
   "main": "Rate.vue",
   "scripts": {
