@@ -116,9 +116,6 @@ export default {
     .rate .spanf{
             font-family: 'Courier New', Courier, monospace;
     }
-    .rate .spanf{
-            font-family: 'Courier New', Courier, monospace;
-    }
     .rate .rate-level{
            font-size: 75%;
             margin-left: 2rpx;
